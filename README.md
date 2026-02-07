@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Felipe Roriz 👋
 
-<!--
-**felipe-roriz/felipe-roriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas de Computação na UFF**. 
+Tenho uma base sólida em infraestrutura Open Source e estou expandindo meus conhecimentos em desenvolvimento de software.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Experiência
+- 🐧 **Linux & Open Source:** Experiência com administração de sistemas.
+- 📂 **Infraestrutura:** Samba Active Directory e Samba File Server.
+- 🌐 **Web:** HTML5, CSS3 e JavaScript (Básico).
+- 🎓 **Faculdade:** Focado em Algoritmos e Fundamentos de Programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Contato
+- 📧 **E-mail:** [felipe.roriz@outlook.com](mailto:felipe.roriz@outlook.com)
